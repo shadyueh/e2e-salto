@@ -1,3 +1,4 @@
 {
-  "baseUrl": "http://localhost/dsv/salto"
+  "baseUrl": "http://localhost/dsv/salto",
+  "chromeWebSecurity": false
 }
